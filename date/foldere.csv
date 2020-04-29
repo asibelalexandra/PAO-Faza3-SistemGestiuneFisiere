@@ -1,0 +1,5 @@
+id, id_folder_parinte, nume
+13523495-f4bd-3dd3-86a9-22f207c20b0a,13523495-f4bd-3dd3-86a9-22f207c20b0a,root
+8f5ac535-b63d-49ca-ac02-4137a3cc0a0d,c382ced0-550f-48c6-a543-1dbd91b2fa68,testnouredenumit
+c382ced0-550f-48c6-a543-1dbd91b2fa68,13523495-f4bd-3dd3-86a9-22f207c20b0a,test
+6a39830a-1814-46b1-8ef5-e0c72d5629ed,c382ced0-550f-48c6-a543-1dbd91b2fa68,teste
